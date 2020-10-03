@@ -4,3 +4,4 @@ My Resolution
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Membuat aplikasi mobile
