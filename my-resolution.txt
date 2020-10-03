@@ -5,3 +5,4 @@ My Resolution
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
 - Membuat aplikasi mobile
+- Membuat aplikasi desktop
