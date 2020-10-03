@@ -11,3 +11,4 @@ My Resolution
 - Membuat materi progressive web app
 - Membuat materi Laravel
 - Membuat materi tentang Webpack
+- Membuat materi tentang MERN STACK
