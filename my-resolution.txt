@@ -6,5 +6,6 @@ My Resolution
 - Membuat vlog
 - Membuat aplikasi mobile
 - Membuat aplikasi web
+- Membuat materi Business Intelligence
 - Membuat aplikasi machine learning
 - Membuat materi progressive web app
