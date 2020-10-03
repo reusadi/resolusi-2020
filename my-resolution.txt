@@ -10,3 +10,4 @@ My Resolution
 - Membuat aplikasi machine learning
 - Membuat materi progressive web app
 - Membuat materi Laravel
+- Membuat materi tentang Webpack
